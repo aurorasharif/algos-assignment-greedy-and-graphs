@@ -4,6 +4,7 @@
  * Physics Experiment
  * Author: aurora sharif and Carolyn Yao
  * Does this compile or finish running within 5 seconds? Y
+ group work by aurora sharif and hamidur rahman
  */
 
 /**

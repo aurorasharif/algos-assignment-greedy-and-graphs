@@ -2,8 +2,9 @@
 
 /**
  * Public Transit
- * Author: aurora sharif and Carolyn Yao
+ * Author: Aurora Sharif and Carolyn Yao
  * Does this compile? Y
+ group work by aurora sharif and hamidur rahman
  */
 
 import java.util.Random;
