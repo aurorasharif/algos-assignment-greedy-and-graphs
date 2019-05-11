@@ -2,7 +2,7 @@
 
 /**
  * Public Transit
- * Author: Hamidur Rahman and Carolyn Yao
+ * Author: aurora sharif and Carolyn Yao
  * Does this compile? Y
  */
 

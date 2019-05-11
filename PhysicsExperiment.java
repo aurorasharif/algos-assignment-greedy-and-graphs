@@ -2,7 +2,7 @@
 
 /**
  * Physics Experiment
- * Author: Hamidur Rahman and Carolyn Yao
+ * Author: aurora sharif and Carolyn Yao
  * Does this compile or finish running within 5 seconds? Y
  */
 
